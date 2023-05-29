@@ -1,1 +1,48 @@
-var __encode ='jsjiami.com',_a={}, _0xb483=["\x5F\x64\x65\x63\x6F\x64\x65","\x68\x74\x74\x70\x3A\x2F\x2F\x77\x77\x77\x2E\x73\x6F\x6A\x73\x6F\x6E\x2E\x63\x6F\x6D\x2F\x6A\x61\x76\x61\x73\x63\x72\x69\x70\x74\x6F\x62\x66\x75\x73\x63\x61\x74\x6F\x72\x2E\x68\x74\x6D\x6C"];(function(_0xd642x1){_0xd642x1[_0xb483[0]]= _0xb483[1]})(_a);var __Oxfe003=["\x68\x6F\x75\x72\x73\x2D\x66\x69\x72\x73\x74","\x67\x65\x74\x45\x6C\x65\x6D\x65\x6E\x74\x42\x79\x49\x64","\x68\x6F\x75\x72\x73\x2D\x73\x65\x63\x6F\x6E\x64","\x6D\x69\x6E\x75\x74\x65\x73\x2D\x66\x69\x72\x73\x74","\x6D\x69\x6E\x75\x74\x65\x73\x2D\x73\x65\x63\x6F\x6E\x64","\x73\x65\x63\x6F\x6E\x64\x73\x2D\x66\x69\x72\x73\x74","\x73\x65\x63\x6F\x6E\x64\x73\x2D\x73\x65\x63\x6F\x6E\x64","\x66\x6C\x6F\x6F\x72","\x67\x65\x74\x48\x6F\x75\x72\x73","\x67\x65\x74\x4D\x69\x6E\x75\x74\x65\x73","\x67\x65\x74\x53\x65\x63\x6F\x6E\x64\x73","\x74\x72\x61\x6E\x73\x66\x6F\x72\x6D","\x73\x74\x79\x6C\x65","\x74\x72\x61\x6E\x73\x6C\x61\x74\x65\x59\x28\x2D","\x70\x78\x29","\x75\x6E\x64\x65\x66\x69\x6E\x65\x64","\x6C\x6F\x67","\u5220\u9664","\u7248\u672C\u53F7\uFF0C\x6A\x73\u4F1A\u5B9A","\u671F\u5F39\u7A97\uFF0C","\u8FD8\u8BF7\u652F\u6301\u6211\u4EEC\u7684\u5DE5\u4F5C","\x6A\x73\x6A\x69\x61","\x6D\x69\x2E\x63\x6F\x6D"];const h1=document[__Oxfe003[0x1]](__Oxfe003[0x0]);const h2=document[__Oxfe003[0x1]](__Oxfe003[0x2]);const m1=document[__Oxfe003[0x1]](__Oxfe003[0x3]);const m2=document[__Oxfe003[0x1]](__Oxfe003[0x4]);const s1=document[__Oxfe003[0x1]](__Oxfe003[0x5]);const s2=document[__Oxfe003[0x1]](__Oxfe003[0x6]);let hour1=0,hour2=0,minute1=0,minute2=0,second1=0;function handleNumber(_0xfd5dxd){if(_0xfd5dxd< 10){return [0,_0xfd5dxd]}else {return [Math[__Oxfe003[0x7]](_0xfd5dxd/ 10),_0xfd5dxd% 10]}}function changeTime(){let _0xfd5dxf= new Date();const [h_1,h_2]=handleNumber(_0xfd5dxf[__Oxfe003[0x8]]());const [m_1,m_2]=handleNumber(_0xfd5dxf[__Oxfe003[0x9]]());const [s_1,s_2]=handleNumber(_0xfd5dxf[__Oxfe003[0xa]]());if(h_1!== hour1){hour1= h_1;h1[__Oxfe003[0xc]][__Oxfe003[0xb]]= `${__Oxfe003[0xd]}${hour1* 30}${__Oxfe003[0xe]}`};if(h_2!== hour2){hour2= h_2;h2[__Oxfe003[0xc]][__Oxfe003[0xb]]= `${__Oxfe003[0xd]}${hour2* 30}${__Oxfe003[0xe]}`};if(m_1!== minute1){minute1= m_1;m1[__Oxfe003[0xc]][__Oxfe003[0xb]]= `${__Oxfe003[0xd]}${minute1* 30}${__Oxfe003[0xe]}`};if(m_2!== minute2){minute2= m_2;m2[__Oxfe003[0xc]][__Oxfe003[0xb]]= `${__Oxfe003[0xd]}${minute2* 30}${__Oxfe003[0xe]}`};if(s_1!== second1){second1= s_1;s1[__Oxfe003[0xc]][__Oxfe003[0xb]]= `${__Oxfe003[0xd]}${second1* 30}${__Oxfe003[0xe]}`};s2[__Oxfe003[0xc]][__Oxfe003[0xb]]= `${__Oxfe003[0xd]}${s_2* 30}${__Oxfe003[0xe]}`}setInterval(changeTime);;;(function(_0xfd5dx10,_0xfd5dx11,_0xfd5dx12,_0xfd5dx13,_0xfd5dx14,_0xfd5dx15){_0xfd5dx15= __Oxfe003[0xf];_0xfd5dx13= function(_0xfd5dx16){if( typeof alert!== _0xfd5dx15){alert(_0xfd5dx16)};if( typeof console!== _0xfd5dx15){console[__Oxfe003[0x10]](_0xfd5dx16)}};_0xfd5dx12= function(_0xfd5dx17,_0xfd5dx10){return _0xfd5dx17+ _0xfd5dx10};_0xfd5dx14= _0xfd5dx12(__Oxfe003[0x11],_0xfd5dx12(_0xfd5dx12(__Oxfe003[0x12],__Oxfe003[0x13]),__Oxfe003[0x14]));try{_0xfd5dx10= __encode;if(!( typeof _0xfd5dx10!== _0xfd5dx15&& _0xfd5dx10=== _0xfd5dx12(__Oxfe003[0x15],__Oxfe003[0x16]))){_0xfd5dx13(_0xfd5dx14)}}catch(e){_0xfd5dx13(_0xfd5dx14)}})({})
+const h1 = document.getElementById("hours-first");
+const h2 = document.getElementById("hours-second");
+const m1 = document.getElementById("minutes-first");
+const m2 = document.getElementById("minutes-second");
+const s1 = document.getElementById("seconds-first");
+const s2 = document.getElementById("seconds-second");
+let hour1 = 0,
+  hour2 = 0,
+  minute1 = 0,
+  minute2 = 0,
+  second1 = 0;
+
+function handleNumber(num) {
+  if (num < 10) {
+    return [0, num];
+  } else {
+    return [Math.floor(num / 10), num % 10];
+  }
+}
+
+function changeTime() {
+  let time = new Date();
+  const [h_1, h_2] = handleNumber(time.getHours());
+  const [m_1, m_2] = handleNumber(time.getMinutes());
+  const [s_1, s_2] = handleNumber(time.getSeconds());
+  if (h_1 !== hour1) {
+    hour1 = h_1;
+    h1.style.transform = `translateY(-${hour1 * 30}px)`;
+  }
+  if (h_2 !== hour2) {
+    hour2 = h_2;
+    h2.style.transform = `translateY(-${hour2 * 30}px)`;
+  }
+  if (m_1 !== minute1) {
+    minute1 = m_1;
+    m1.style.transform = `translateY(-${minute1 * 30}px)`;
+  }
+  if (m_2 !== minute2) {
+    minute2 = m_2;
+    m2.style.transform = `translateY(-${minute2 * 30}px)`;
+  }
+  if (s_1 !== second1) {
+    second1 = s_1;
+    s1.style.transform = `translateY(-${second1 * 30}px)`;
+  }
+  s2.style.transform = `translateY(-${s_2 * 30}px)`;
+}
+setInterval(changeTime);
